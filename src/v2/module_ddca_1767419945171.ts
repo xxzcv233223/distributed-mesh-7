@@ -1,0 +1,1 @@
+const util_ddca = (d: any) => d;
